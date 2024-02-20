@@ -1,4 +1,5 @@
-<img width="396" alt="Captură de ecran din 2024-02-20 la 13 18 30" src="https://github.com/chiriacdaria/tanks-level-control/assets/99746700/1aaad3ee-1ad3-4073-94b8-289c6783748e">
+Standul didactic Festo (Figura 1.1) este o instalaţie compactă şi este proiectat pentru a satisface diferite necesităţi de instruire orientată pe aplicaţii industriale şi o bună cunoaştere a componentelor hardware utilizate în sistemele de control industriale. Standul este conceput pentru realizarea a patru sisteme de control automat, fiecare cu senzorii şi elementele de execuţie aferente: controlul nivelului, controlul debitului, controlul temperaturii, şi controlul presiunii.
+
 Sistemul conține două rezervoare de apă, cu aceeași secțiune transversală, situate unul deasupra celuilalt astfel încât minimul.
 în rezervorul de sus este la același nivel cu maximul din rezervorul de jos. Nivelul este reglat în Rezervorul 1, iar Rezervorul 2 are rolul de rezervor tampon. 
 Rezervorul în care se reglează nivelul este poziționat deasupra rezervorului tampon. Prin alegerea acestei soluții constructive sarcina pompei este reprezentată de distanța pe verticală dintre suprafața apei în rezervorul de sus și suprafața apei în cel de jos, adică de două ori înălțimea coloanei de apă din rezervorul principal.
